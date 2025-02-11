@@ -41,6 +41,7 @@ We have included template files that can be used to scaffold these files.
 ### About file names when submitting.
 If a task specifies for instance task1.* you replace the * with the file ending for your language.
 I.e. if you are writing in c# the ending becomes cs so task1.cs, if you are writing in js than the file becomes task1.js or task1.mjs, if you are writing in Python it becomes task1.py
+**you are writing javascript**
 
 
 ## Task 1
